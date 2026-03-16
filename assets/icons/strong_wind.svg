@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Hazard: Strong Winds (Upepo Mkali) -->
+  <polygon points="100,15 190,175 10,175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(100,108)">
+    <!-- Bent tree (right side) -->
+    <path d="M12,32 Q14,10 6,-4 Q2,-12 -4,-18" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- Tree crown blown left -->
+    <ellipse cx="-12" cy="-22" rx="14" ry="10" fill="#1a1a1a" stroke="none" transform="rotate(-15,-12,-22)"/>
+    <!-- Ground line -->
+    <line x1="-30" y1="32" x2="36" y2="32" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+    <!-- Wind streaks (left side, horizontal) -->
+    <g stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round">
+      <line x1="-40" y1="-18" x2="-18" y2="-18"/>
+      <line x1="-44" y1="-6" x2="-14" y2="-6"/>
+      <line x1="-40" y1="6" x2="-8" y2="6"/>
+      <line x1="-36" y1="18" x2="-4" y2="18"/>
+    </g>
+    <!-- Small debris particles -->
+    <g fill="#1a1a1a" stroke="none">
+      <circle cx="-32" cy="-12" r="2"/>
+      <circle cx="-22" cy="0" r="1.5"/>
+      <circle cx="-28" cy="12" r="2"/>
+    </g>
+  </g>
+</svg>

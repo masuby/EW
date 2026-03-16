@@ -1,0 +1,26 @@
+{
+  "agency": "MoA",
+  "report_date": "2026-03-15",
+  "report_period": "Weekly",
+  "assessments": [
+    {
+      "type": "DROUGHT",
+      "severity": "D1 — Moderate Drought",
+      "alert_level": "ADVISORY",
+      "rainfall_pct_normal": 35,
+      "vegetation_ndvi": "Below Normal",
+      "affected_sectors": [
+        "Crops",
+        "Livestock"
+      ],
+      "regions": [
+        "Dodoma"
+      ],
+      "districts": [],
+      "description": "",
+      "recommended_actions": "",
+      "likelihood": "MEDIUM",
+      "impact": "MEDIUM"
+    }
+  ]
+}

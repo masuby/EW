@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Hazard: Disease Outbreak (Mlipuko wa Magonjwa) -->
+  <polygon points="100,15 190,175 10,175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(100,108)">
+    <!-- Virus body -->
+    <circle cx="0" cy="-8" r="16" fill="none" stroke="#1a1a1a" stroke-width="3.5"/>
+    <!-- Spike proteins radiating outward -->
+    <g stroke="#1a1a1a" stroke-width="3" stroke-linecap="round">
+      <line x1="0" y1="-24" x2="0" y2="-34"/>
+      <circle cx="0" cy="-36" r="3" fill="#1a1a1a" stroke="none"/>
+      <line x1="0" y1="8" x2="0" y2="18"/>
+      <circle cx="0" cy="20" r="3" fill="#1a1a1a" stroke="none"/>
+      <line x1="16" y1="-8" x2="26" y2="-8"/>
+      <circle cx="28" cy="-8" r="3" fill="#1a1a1a" stroke="none"/>
+      <line x1="-16" y1="-8" x2="-26" y2="-8"/>
+      <circle cx="-28" cy="-8" r="3" fill="#1a1a1a" stroke="none"/>
+      <line x1="11" y1="-19" x2="19" y2="-27"/>
+      <circle cx="21" cy="-29" r="2.5" fill="#1a1a1a" stroke="none"/>
+      <line x1="-11" y1="-19" x2="-19" y2="-27"/>
+      <circle cx="-21" cy="-29" r="2.5" fill="#1a1a1a" stroke="none"/>
+      <line x1="11" y1="3" x2="19" y2="11"/>
+      <circle cx="21" cy="13" r="2.5" fill="#1a1a1a" stroke="none"/>
+      <line x1="-11" y1="3" x2="-19" y2="11"/>
+      <circle cx="-21" cy="13" r="2.5" fill="#1a1a1a" stroke="none"/>
+    </g>
+    <!-- Inner dots -->
+    <g fill="#1a1a1a" stroke="none">
+      <circle cx="-5" cy="-12" r="2.5"/>
+      <circle cx="6" cy="-6" r="2.5"/>
+      <circle cx="-3" cy="-2" r="2"/>
+    </g>
+  </g>
+</svg>

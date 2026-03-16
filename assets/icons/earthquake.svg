@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Hazard: Earthquake (Tetemeko la Ardhi) -->
+  <polygon points="100,15 190,175 10,175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(100,105)">
+    <!-- Seismograph zigzag reading -->
+    <polyline points="-42,0 -30,0 -24,-28 -18,24 -12,-20 -6,18 0,-24 6,26 12,-18 18,22 24,-14 30,0 42,0"
+              fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Ground cracks below -->
+    <g stroke="#1a1a1a" stroke-width="3" stroke-linecap="round">
+      <line x1="-30" y1="28" x2="30" y2="28"/>
+      <line x1="-10" y1="28" x2="-16" y2="40"/>
+      <line x1="8" y1="28" x2="14" y2="38"/>
+      <line x1="-2" y1="28" x2="0" y2="36"/>
+    </g>
+  </g>
+</svg>

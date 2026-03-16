@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Hazard: Air Pollution (Uchafuzi wa Hewa) -->
+  <polygon points="100,15 190,175 10,175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(100,112)">
+    <!-- Factory building -->
+    <rect x="-24" y="2" width="48" height="28" fill="#1a1a1a" stroke="none"/>
+    <!-- Chimneys -->
+    <rect x="-18" y="-18" width="8" height="20" fill="#1a1a1a" stroke="none"/>
+    <rect x="10" y="-14" width="8" height="16" fill="#1a1a1a" stroke="none"/>
+    <!-- Windows -->
+    <g fill="white" stroke="none">
+      <rect x="-16" y="10" width="6" height="6"/>
+      <rect x="-6" y="10" width="6" height="6"/>
+      <rect x="4" y="10" width="6" height="6"/>
+      <rect x="14" y="10" width="6" height="6"/>
+    </g>
+    <!-- Smoke from left chimney -->
+    <g fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round">
+      <path d="M-14,-18 Q-18,-28 -12,-34 Q-6,-40 -10,-48"/>
+      <path d="M-10,-18 Q-6,-26 -10,-32 Q-14,-38 -8,-44"/>
+    </g>
+    <!-- Smoke from right chimney -->
+    <g fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round">
+      <path d="M14,-14 Q18,-24 14,-30 Q10,-36 16,-44"/>
+      <path d="M18,-14 Q22,-22 18,-28 Q14,-34 20,-40"/>
+    </g>
+    <!-- Smoke clouds at top -->
+    <g fill="#1a1a1a" stroke="none" opacity="0.6">
+      <circle cx="-8" cy="-50" r="5"/>
+      <circle cx="4" cy="-48" r="4"/>
+      <circle cx="18" cy="-46" r="4.5"/>
+    </g>
+  </g>
+</svg>

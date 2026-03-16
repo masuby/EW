@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Hazard: Volcano (Volkano) -->
+  <polygon points="100,15 190,175 10,175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(100,108)">
+    <!-- Mountain body -->
+    <path d="M-40,32 L-8,-18 L-2,-22 L4,-18 L40,32 Z" fill="#1a1a1a" stroke="none"/>
+    <!-- Crater opening -->
+    <ellipse cx="0" cy="-20" rx="8" ry="3" fill="white" stroke="none"/>
+    <!-- Eruption column -->
+    <g fill="#1a1a1a" stroke="none">
+      <circle cx="0" cy="-32" r="6"/>
+      <circle cx="-6" cy="-40" r="5"/>
+      <circle cx="6" cy="-38" r="5"/>
+      <circle cx="0" cy="-46" r="4.5"/>
+      <circle cx="-4" cy="-52" r="3.5"/>
+      <circle cx="5" cy="-50" r="3.5"/>
+    </g>
+    <!-- Lava flows -->
+    <g stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" fill="none">
+      <path d="M-4,-18 Q-14,4 -22,28"/>
+      <path d="M4,-18 Q16,6 24,28"/>
+    </g>
+  </g>
+</svg>

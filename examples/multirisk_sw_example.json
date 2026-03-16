@@ -1,0 +1,228 @@
+{
+    "bulletin_number": 122,
+    "issue_date": "2025-05-07",
+    "issue_time": "09:42",
+    "language": "sw",
+    "header_variant": "new",
+    "days": [
+        {
+            "day_number": 1,
+            "date": "2025-05-07",
+            "hazard_panels": [
+                {"type": "HEAVY_RAIN", "map_image": null},
+                {"type": "LARGE_WAVES", "map_image": null},
+                {"type": "STRONG_WIND", "map_image": null},
+                {"type": "FLOODS", "map_image": null}
+            ],
+            "summary_map": null,
+            "alert_tiers": {
+                "major_warning": null,
+                "warning": null,
+                "advisory": {
+                    "text": null,
+                    "recommendations": []
+                }
+            },
+            "recommendation_intro": "Jamii inasisitizwa kuchukua hatua za tahadhari ikijumuisha:",
+            "recommendations": [
+                "Wavuvi na watumiaji wa bahari ya Hindi kuchukua tahadhari ya upepo mkali na mawimbi makubwa.",
+                "Kuepuka kuvuka barabara na madaraja yaliyojaa maji.",
+                "Watu wanaoishi maeneo ya mabondeni kuchukua tahadhari.",
+                "Walimu na wazazi kuchukua tahadhari kwa wanafunzi wanaopita katika maeneo hatarishi.",
+                "Makundi maalamu ikijumuisha watu wenye ulemavu, watoto na wazee wapatiwe taarifa ya tahadhari ya mapema na hatua stahiki zichukuliwe na jamii husika.",
+                "Kuendelea kufuatilia taarifa za hali ya hewa zinazotolewa na Mamlaka ya Hali ya Hewa Tanzania."
+            ],
+            "committee_note": "Kamati za Usimamizi wa Maafa za Mikoa, Wilaya, Kata na Vijiji/Mitaa zinatakiwa kuchukua hatua stahiki za kujiandaa na kukabiliana na maafa ili kupunguza athari za majanga.",
+            "comments": {
+                "tma": {
+                    "entries": [
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la mvua kubwa limetolewa kwa maeneo machache ya mikoa ya Kagera, Geita, Mwanza, Shinyanga, Simiyu na Mara.",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        },
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la upepo mkali unaofikia kilomita 40 kwa saa na mawimbi makubwa yanayofikia mita 2 limetolewa kwa baadhi ya maeneo ya ukanda wote wa pwani ya bahari ya Hindi (Mikoa ya Tanga, Dar es Salaam, Pwani (ikijumuisha visiwa vya Mafia), Lindi na Mtwara pamoja na visiwa vya Unguja na Pemba).",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        }
+                    ]
+                },
+                "mow": {
+                    "entries": [
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la ongezeko la wingi wa maji katika mito, vijito na mabwabwa limetolewa kwa maeneo machache ya Bonde la Wami Ruvu (Dar es Salaam, Morogoro na Pwani), Bonde la Pangani (Kilimanjaro na Tanga) Bonde la Ruvuma (Ruvuma, Mtwara na Lindi) Bonde la Rufiji (Morogoro na Pwani) Bonde la Ruvuma na Pwani ya kusini (Mtwara na Lindi)",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        }
+                    ]
+                },
+                "dmd": {
+                    "header": "Madhara yanayoweza kutokea:",
+                    "bullets": [
+                        "Makazi kuzingirwa na maji.",
+                        "Uwezekano wa kuathirika kwa shughuli za uvuvi na usafirishaji katika bahari ya Hindi.",
+                        "Uwezekano wa uharibifu wa miundombinu ya barabara na madaraja.",
+                        "Uwezekano wa barabara kutopitika kutokana na mafuriko.",
+                        "Kuathirika kwa shughuli za kijamii na kiuchumi."
+                    ],
+                    "likelihood": "MEDIUM",
+                    "impact": "MEDIUM"
+                }
+            }
+        },
+        {
+            "day_number": 2,
+            "date": "2025-05-08",
+            "hazard_panels": [
+                {"type": "HEAVY_RAIN", "map_image": null},
+                {"type": "LARGE_WAVES", "map_image": null},
+                {"type": "STRONG_WIND", "map_image": null},
+                {"type": "FLOODS", "map_image": null}
+            ],
+            "summary_map": null,
+            "alert_tiers": {
+                "major_warning": null,
+                "warning": null,
+                "advisory": {
+                    "text": null,
+                    "recommendations": []
+                }
+            },
+            "recommendation_intro": "Jamii inasisitizwa kuchukua hatua za tahadhari ikijumuisha:",
+            "recommendations": [
+                "Wavuvi na watumiaji wa bahari ya Hindi kuchukua tahadhari ya upepo mkali na mawimbi makubwa.",
+                "Kuepuka kuvuka barabara na madaraja yaliyojaa maji.",
+                "Watu wanaoishi maeneo ya mabondeni kuchukua tahadhari.",
+                "Walimu na wazazi kuchukua tahadhari kwa wanafunzi wanaopita katika maeneo hatarishi.",
+                "Makundi maalamu ikijumuisha watu wenye ulemavu, watoto na wazee wapatiwe taarifa ya tahadhari ya mapema na hatua stahiki zichukuliwe na jamii husika.",
+                "Kuendelea kufuatilia taarifa za hali ya hewa zinazotolewa na Mamlaka ya Hali ya Hewa Tanzania."
+            ],
+            "committee_note": "Kamati za Usimamizi wa Maafa za Mikoa, Wilaya, Kata na Vijiji/Mitaa zinatakiwa kuchukua hatua stahiki za kujiandaa na kukabiliana na maafa ili kupunguza athari za majanga.",
+            "comments": {
+                "tma": {
+                    "entries": [
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la mvua kubwa limetolewa kwa maeneo machache ya mikoa ya Dar es Salaam na Pwani (ikijumuisha visiwa vya Mafia), pamoja na visiwa vya Unguja na Pemba.",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        },
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la upepo mkali unaofikia kilomita 40 kwa saa na mawimbi makubwa yanayofikia mita 2 limetolewa kwa baadhi ya maeneo ya ukanda wote wa pwani ya bahari ya Hindi (mikoa ya Tanga, Dar es Salaam, Pwani (ikijumuisha visiwa vya Mafia), Lindi na Mtwara pamoja na visiwa vya Unguja na Pemba).",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        }
+                    ]
+                },
+                "mow": {
+                    "entries": [
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la ongezeko la wingi wa maji katika mito, vijito na mabwabwa limetolewa kwa maeneo machache ya Bonde la Wami Ruvu (Dar es Salaam, Morogoro na Pwani), Bonde la Pangani (Kilimanjaro na Tanga) Bonde la Ruvuma (Ruvuma, Mtwara na Lindi) Bonde la Rufiji (Morogoro na Pwani) Bonde la Ruvuma na Pwani ya kusini (Mtwara na Lindi)",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        }
+                    ]
+                },
+                "dmd": {
+                    "header": "Madhara yanayoweza kutokea:",
+                    "bullets": [
+                        "Makazi kuzingirwa na maji.",
+                        "Uwezekano wa kuathirika kwa shughuli za uvuvi na usafirishaji katika bahari ya Hindi.",
+                        "Uwezekano wa uharibifu wa miundombinu ya barabara na madaraja.",
+                        "Uwezekano wa barabara kutopitika kutokana na mafuriko.",
+                        "Kuathirika kwa shughuli za kijamii na kiuchumi."
+                    ],
+                    "likelihood": "MEDIUM",
+                    "impact": "MEDIUM"
+                }
+            }
+        },
+        {
+            "day_number": 3,
+            "date": "2025-05-09",
+            "hazard_panels": [
+                {"type": "HEAVY_RAIN", "map_image": null},
+                {"type": "LARGE_WAVES", "map_image": null},
+                {"type": "STRONG_WIND", "map_image": null},
+                {"type": "FLOODS", "map_image": null}
+            ],
+            "summary_map": null,
+            "alert_tiers": {
+                "major_warning": null,
+                "warning": null,
+                "advisory": {
+                    "text": null,
+                    "recommendations": []
+                }
+            },
+            "recommendation_intro": "Jamii inasisitizwa kuchukua hatua za tahadhari ikijumuisha:",
+            "recommendations": [
+                "Watu wanaoishi maeneo ya mabondeni kuchukua hatua za tahadhari.",
+                "Kuepuka kuvuka barabara na madaraja yaliyojaa maji.",
+                "Walimu na wazazi kuchukua tahadhari kwa wanafunzi wanaopita katika maeneo hatarishi.",
+                "Makundi maalamu ikijumuisha watu wenye ulemavu, watoto na wazee wapatiwe taarifa ya tahadhari ya mapema na hatua stahiki zichukuliwe na jamii husika.",
+                "Kuendelea kufuatilia taarifa za hali ya hewa zinazotolewa na Mamlaka ya Hali ya Hewa Tanzania."
+            ],
+            "committee_note": "Kamati za Usimamizi wa Maafa za Mikoa, Wilaya, Kata na Vijiji/Mitaa zinatakiwa kuchukua hatua stahiki za kujiandaa na kukabiliana na maafa ili kupunguza athari za majanga.",
+            "comments": {
+                "tma": {
+                    "entries": [
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la mvua kubwa limetolewa kwa maeneo machache ya mikoa ya Tanga, Dar es Salaam, Pwani (ikijumuisha visiwa vya Mafia), Lindi na Mtwara pamoja na visiwa vya Unguja na Pemba.",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        }
+                    ]
+                },
+                "mow": {
+                    "entries": [
+                        {
+                            "alert_level": "ADVISORY",
+                            "description": "ANGALIZO la ongezeko la wingi wa maji katika mito, vijito na mabwabwa limetolewa kwa maeneo machache ya Bonde la Wami Ruvu (Dar es Salaam, Morogoro na Pwani), Bonde la Pangani (Kilimanjaro na Tanga) Bonde la Ruvuma (Ruvuma, Mtwara na Lindi) Bonde la Rufiji (Morogoro na Pwani) Bonde la Ruvuma na Pwani ya kusini (Mtwara na Lindi)",
+                            "likelihood": "MEDIUM",
+                            "impact": "MEDIUM"
+                        }
+                    ]
+                },
+                "dmd": {
+                    "header": "Madhara yanayoweza kutokea:",
+                    "bullets": [
+                        "Makazi kuzingirwa na maji.",
+                        "Uwezekano wa uharibifu wa miundombinu ya barabara na madaraja.",
+                        "Uwezekano wa barabara kutopitika kutokana na mafuriko.",
+                        "Kuathirika kwa shughuli za kijamii na kiuchumi."
+                    ],
+                    "likelihood": "MEDIUM",
+                    "impact": "MEDIUM"
+                }
+            }
+        }
+    ],
+    "district_summaries": [
+        {
+            "day_number": 1,
+            "major_warning": [],
+            "warning": [],
+            "advisory": ["Arusha", "Bagamoyo", "Bariadi", "Biharamulo", "Bukoba", "Bukoba Urban", "Bukombe", "Bunda", "Busega", "Butiam", "Chake Chake", "Chato", "Geita", "Hai", "Handeni", "Handeni Mji", "Ilala", "Ilemela", "Itilima", "Kahama", "Kahama Township Authority", "Karagwe", "Kaskazini A", "Kaskazini B", "Kati", "Kibaha", "Kibaha Urban", "Kilindi", "Kilwa", "Kinondoni", "Kisarawe", "Kishapu", "Korogwe", "Korogwe Township Authority", "Kusini", "Kwimba", "Kyerwa", "Lindi", "Lindi Urban", "Liwale", "Mafia", "Magharibi", "Magu", "Maswa", "Mbogwe", "Meatu", "Meru", "Micheweni", "Missenyi", "Misungwi", "Mjini", "Mkinga", "Mkoani", "Mkuranga", "Morogoro", "Morogoro Urban", "Moshi", "Mtwara", "Mtwara Urban", "Muheza", "Muleba", "Musoma", "Musoma Urban", "Mvomero", "Mwanga", "Namtumbo", "Ngara", "Nyamagana", "Nyang'hwale", "Pangani", "Rorya", "Rufiji", "Sengerema", "Serengeti", "Shinyanga", "Shinyanga Urban", "Siha", "Simanjiro", "Tanga Urban", "Tarime", "Temeke", "Tunduru", "Ukerewe", "Wete"]
+        },
+        {
+            "day_number": 2,
+            "major_warning": [],
+            "warning": [],
+            "advisory": ["Arusha", "Arusha Urban", "Bagamoyo", "Chake Chake", "Hai", "Handeni", "Handeni Mji", "Ilala", "Kaskazini A", "Kaskazini B", "Kati", "Kibaha", "Kibaha Urban", "Kilwa", "Kinondoni", "Kisarawe", "Korogwe", "Korogwe Township Authority", "Kusini", "Lindi", "Lindi Urban", "Liwale", "Mafia", "Magharibi", "Meru", "Micheweni", "Mjini", "Mkinga", "Mkoani", "Mkuranga", "Morogoro", "Mtwara", "Mtwara Urban", "Muheza", "Pangani", "Rufiji", "Siha", "Tanga Urban", "Temeke", "Tunduru", "Wete"]
+        },
+        {
+            "day_number": 3,
+            "major_warning": [],
+            "warning": [],
+            "advisory": ["Bagamoyo", "Chake Chake", "Hai", "Handeni", "Handeni Mji", "Ilala", "Kaskazini A", "Kaskazini B", "Kati", "Kibaha", "Kibaha Urban", "Kilindi", "Kilwa", "Kinondoni", "Kisarawe", "Korogwe", "Korogwe Township Authority", "Kusini", "Lindi", "Lindi Urban", "Liwale", "Lushoto", "Mafia", "Magharibi", "Masasi", "Masasi Township Authority", "Meru", "Micheweni", "Mjini", "Mkinga", "Mkoani", "Mkuranga", "Mtwara", "Mtwara Urban", "Muheza", "Nachingwea", "Nanyumbu", "Newala", "Pangani", "Ruangwa", "Rufiji", "Same", "Siha", "Simanjiro", "Tandahimba", "Tanga Urban", "Temeke", "Tunduru", "Wete"]
+        }
+    ]
+}

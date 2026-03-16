@@ -1,0 +1,23 @@
+{
+  "agency": "MoH",
+  "report_date": "2026-03-15",
+  "report_time": "09:00",
+  "outbreaks": [
+    {
+      "type": "DISEASE_OUTBREAK",
+      "disease": "Cholera",
+      "alert_level": "ADVISORY",
+      "confirmed_cases": 11,
+      "deaths": 0,
+      "trend": "Increasing",
+      "regions": [
+        "Tabora"
+      ],
+      "districts": [],
+      "description": "hgcghcyh",
+      "response_actions": "dxgfjxgdfxjgfxgjgf",
+      "likelihood": "MEDIUM",
+      "impact": "MEDIUM"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "issue_date": "2025-03-08",
+    "issue_time": "15:30",
+    "days": [
+        {
+            "date": "2025-03-08",
+            "hazards": []
+        },
+        {
+            "date": "2025-03-09",
+            "hazards": [
+                {
+                    "type": "HEAVY_RAIN",
+                    "alert_level": "ADVISORY",
+                    "description": "of heavy rain is issued over few areas of western areas of Kagera and Geita regions.",
+                    "likelihood": "MEDIUM",
+                    "impact": "MEDIUM",
+                    "impacts_expected": "Localized floods over few areas.",
+                    "regions": ["Kagera", "Geita"]
+                }
+            ]
+        },
+        {
+            "date": "2025-03-10",
+            "hazards": [
+                {
+                    "type": "HEAVY_RAIN",
+                    "alert_level": "ADVISORY",
+                    "description": "of heavy rain is issued over few areas of Kagera, Geita, Mwanza, Simiyu, Shinyanga, Mara, Arusha, Kilimanjaro, Manyara, Tanga, Morogoro, Pwani, Dar es Salaam regions, Unguja and Pemba islands.",
+                    "likelihood": "MEDIUM",
+                    "impact": "MEDIUM",
+                    "impacts_expected": "Localized floods and disruption of socio-economic activities over few areas.",
+                    "regions": ["Kagera", "Geita", "Mwanza", "Simiyu", "Shinyanga", "Mara", "Arusha", "Kilimanjaro", "Manyara", "Tanga", "Morogoro", "Pwani", "DaresSalaam", "KaskaziniUnguja", "KusiniUnguja", "KaskaziniPemba", "KusiniPemba"]
+                }
+            ]
+        },
+        {
+            "date": "2025-03-11",
+            "hazards": [
+                {
+                    "type": "HEAVY_RAIN",
+                    "alert_level": "ADVISORY",
+                    "description": "of heavy rain is issued over few areas of Kagera, Geita, Mwanza, Simiyu, Shinyanga, Mara, Arusha, Kilimanjaro, Manyara, Tanga, Morogoro, Pwani, Dar es Salaam, Lindi, Mtwara and Ruvuma regions, Unguja and Pemba islands.",
+                    "likelihood": "MEDIUM",
+                    "impact": "MEDIUM",
+                    "impacts_expected": "Localized floods and disruption of socio-economic activities over few areas.",
+                    "regions": ["Kagera", "Geita", "Mwanza", "Simiyu", "Shinyanga", "Mara", "Arusha", "Kilimanjaro", "Manyara", "Tanga", "Morogoro", "Pwani", "DaresSalaam", "Lindi", "Mtwara", "Ruvuma", "KaskaziniUnguja", "KusiniUnguja", "KaskaziniPemba", "KusiniPemba"]
+                }
+            ]
+        },
+        {
+            "date": "2025-03-12",
+            "hazards": []
+        }
+    ]
+}

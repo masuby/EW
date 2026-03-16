@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Hazard: Heavy Rainfall (Mvua Kubwa) -->
+  <polygon points="100,15 190,175 10,175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <g transform="translate(100,105)">
+    <!-- Cloud shape -->
+    <path d="M-28,-8 Q-28,-24 -14,-24 Q-8,-32 2,-28 Q10,-34 20,-26 Q32,-26 32,-14 Q38,-10 36,-2 Q36,4 28,6 L-24,6 Q-34,4 -34,-4 Q-34,-8 -28,-8 Z"
+          fill="#1a1a1a" stroke="none"/>
+    <!-- Rain drops - evenly spaced -->
+    <g fill="#1a1a1a" stroke="none">
+      <path d="M-18,14 L-16,22 L-20,22 Z"/>
+      <path d="M-6,14 L-4,22 L-8,22 Z"/>
+      <path d="M6,14 L8,22 L4,22 Z"/>
+      <path d="M18,14 L20,22 L16,22 Z"/>
+      <path d="M-12,24 L-10,32 L-14,32 Z"/>
+      <path d="M0,24 L2,32 L-2,32 Z"/>
+      <path d="M12,24 L14,32 L10,32 Z"/>
+    </g>
+  </g>
+</svg>

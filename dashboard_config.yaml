@@ -1,0 +1,38 @@
+credentials:
+  usernames:
+    tma_user:
+      name: TMA Forecaster
+      password: "$2b$12$wuN9jLDKBat6WsQlEHzFyehndbTvX1z8qWOVwODaaWauVUM9pzoVi"
+      role: tma
+    mow_user:
+      name: MoW Officer
+      password: "$2b$12$mR7JgPZ9EPsMZevqloBoz.sdkS9fkF693UUKmJB2guf7o.bxDps7C"
+      role: mow
+    dmd_user:
+      name: DMD Officer
+      password: "$2b$12$QG4XfKtnUh0HG6X58KZK5.0nHO9aZduDNu/8U6Kyyhu.8X6Q9huJi"
+      role: dmd
+    gst_user:
+      name: GST Officer
+      password: "$2b$12$gESlAXwU/T50jFFo3HWBt.7fWCDUQlCE9EP2umQL4HxsTjZ3CSRt6"
+      role: gst
+    moh_user:
+      name: MoH Officer
+      password: "$2b$12$sq.L2aa1EavMTqTmidZQZeSIhEBx8VVz5CZ5U1TYXWHYeyamHMgoi"
+      role: moh
+    moa_user:
+      name: MoA Officer
+      password: "$2b$12$ZuSc4g2c64wOyvNtJ3LyC.PZYpLaQoIzqBaejopl2kV35lNk2CGZG"
+      role: moa
+    nemc_user:
+      name: NEMC Officer
+      password: "$2b$12$vDsLHi4ardCsyctE5kpiLenGG9.Et7sNEleAVsUunSZ21Pk5CcUQa"
+      role: nemc
+    admin:
+      name: Administrator
+      password: "$2b$12$yPJj8saypZITz5vOIf1O2e9HonFltXHkO9lr/cfFzcGA57eSoQc2e"
+      role: admin
+cookie:
+  name: ew_dashboard
+  key: tz_early_warning_secret_key_2025
+  expiry_days: 7

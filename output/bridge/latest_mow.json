@@ -1,0 +1,75 @@
+{
+  "_bridge_ts": "2026-03-15T13:42:38.191363",
+  "data": {
+    "source": "mow",
+    "issue_date": "2026-03-15",
+    "issue_time": "10:00",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-03-15",
+        "assessments": [
+          {
+            "basins": [
+              "Pangani"
+            ],
+            "alert_level": "ADVISORY",
+            "districts": [
+              "Babati",
+              "Babati Urban",
+              "Hai",
+              "Handeni",
+              "Handeni Town",
+              "Kilindi",
+              "Korogwe",
+              "Korogwe Town",
+              "Lushoto",
+              "Mkinga",
+              "Moshi Rural",
+              "Moshi Urban",
+              "Muheza",
+              "Mwanga",
+              "Pangani",
+              "Rombo",
+              "Same",
+              "Siha",
+              "Simanjiro",
+              "Tanga"
+            ],
+            "description": "fdrfcytdfgkrfg",
+            "likelihood": "MEDIUM",
+            "impact": "MEDIUM"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "date": "2026-03-16",
+        "assessments": [
+          {
+            "basins": [],
+            "alert_level": "ADVISORY",
+            "districts": [],
+            "description": "",
+            "likelihood": "MEDIUM",
+            "impact": "MEDIUM"
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "date": "2026-03-17",
+        "assessments": [
+          {
+            "basins": [],
+            "alert_level": "ADVISORY",
+            "districts": [],
+            "description": "",
+            "likelihood": "MEDIUM",
+            "impact": "MEDIUM"
+          }
+        ]
+      }
+    ]
+  }
+}

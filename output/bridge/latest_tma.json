@@ -1,0 +1,52 @@
+{
+  "_bridge_ts": "2026-03-15T13:40:34.894637",
+  "data": {
+    "issue_date": "2026-03-15",
+    "issue_time": "15:30",
+    "days": [
+      {
+        "date": "2026-03-15",
+        "hazards": [
+          {
+            "type": "HEAVY_RAIN",
+            "alert_level": "ADVISORY",
+            "description": "g,cghhg",
+            "regions": [
+              "DaresSalaam",
+              "Dodoma",
+              "KaskaziniPemba",
+              "KaskaziniUnguja",
+              "Kilimanjaro",
+              "KusiniPemba",
+              "KusiniUnguja",
+              "Manyara",
+              "MjiniMagharibi",
+              "Morogoro",
+              "Pwani",
+              "Tanga"
+            ],
+            "likelihood": "MEDIUM",
+            "impact": "MEDIUM",
+            "impacts_expected": "gh,cg.jg.jf"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-16",
+        "hazards": []
+      },
+      {
+        "date": "2026-03-17",
+        "hazards": []
+      },
+      {
+        "date": "2026-03-18",
+        "hazards": []
+      },
+      {
+        "date": "2026-03-19",
+        "hazards": []
+      }
+    ]
+  }
+}
