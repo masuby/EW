@@ -1,0 +1,38 @@
+server:
+  port: 8080
+
+security:
+  jwt:
+    # In production set via environment variable.
+    secret: ${EW_JWT_SECRET:dev-only-secret-change-me}
+    issuer: ew-system
+
+  # Optional: configure in production as bcrypt hashes:
+  # security:
+  #   users:
+  #     list:
+  #       - username: admin
+  #         displayName: Administrator
+  #         role: admin
+  #         passwordHash: "$2b$12$..."
+  users:
+    list: []
+
+ew:
+  storage:
+    # Storage backend selection:
+    # - local: writes to disk + serves /api/files/{key}
+    # - s3: uses S3-compatible storage + presigned URLs
+    type: ${EW_STORAGE_TYPE:local}
+    s3:
+      endpoint: ${EW_S3_ENDPOINT:http://localhost:9000}
+      region: ${EW_S3_REGION:us-east-1}
+      bucket: ${EW_S3_BUCKET:ew-system}
+      accessKey: ${EW_S3_ACCESS_KEY:minioadmin}
+      secretKey: ${EW_S3_SECRET_KEY:minioadmin}
+
+  assets:
+    # In production this should be mounted or packaged alongside the app.
+    # Default assumes the working directory contains EW/assets/geodata.
+    geodataDir: ${EW_GEODATA_DIR:assets/geodata}
+
